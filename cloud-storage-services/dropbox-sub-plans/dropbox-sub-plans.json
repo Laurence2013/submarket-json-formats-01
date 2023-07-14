@@ -120,6 +120,21 @@
 			"dropbox_yrly_savings_02": {
 				"features": ["Annual family plans allow paying upfront for the full year at a discounted rate.", "Savings on Plus family plan is £26.88 per year compared to paying monthly.", "Family plan saves £31.88 per year with annual billing.", "Paying monthly means higher total cost over the year."]	
 			}
+		},
+		"dropbox_06": {
+			"dropbox_free_trial_0": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard_prompt_00": "Dropbox how long is the free trial and how much storage in tables",
+				"title_00": ""
+			},
+			"dropbox_free_trial_1": {
+				"free_trial_length": "30 days",
+				"free_trial_storage_amount": "2 TB",
+				"keep_gb_free_strorage": "2 TB",
+				"free_trial_eligibility": "Once opened an account with Dropbox",
+				"features": ["Free Trial Length", "Free Trial Storage", "Storage Cost After Trial", "Keep Basic Free Storage?", "Convert to Paid Plan Required?"]
+			}
 		}
 	}
 ]
