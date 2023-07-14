@@ -1,0 +1,70 @@
+[
+	{
+		"dropbox_0_00": {
+			"title": "",
+			"link": "",
+			"bard_prompt_00": "",
+			"title_00": ""
+		},
+		"dropbox_0_01": {
+			"currency_type": [""],
+			"monthly_plan_00": {"plan": "", "storage": "", "monthly": ""},
+			"monthly_plan_01": {"plan": "", "storage": "", "monthly": 0},
+			"monthly_plan_02": {"plan": "", "storage": "", "monthly": 0}
+		},
+		"dropbox_0_02": {
+			"features": ["", "", ""]	
+		}
+	}
+]
+# -------------------------------
+# -------------------------------
+[
+	{
+		"dropbox_0_00": {
+			"title": "",
+			"link": "",
+			"bard_prompt_00": "",
+			"title_00": ""
+		},
+		"dropbox_0_01": {
+			"currency_type": [""],
+			"yearly_plan_00": {"plan": "", "storage": "", "yearly": 0},
+			"yearly_plan_01": {"plan": "", "storage": "", "yearly": 0},
+			"yearly_plan_02": {"plan": "", "storage": "", "yearly": 0}
+		},
+		"dropbox_0_02": {
+			"features": ["", "", ""]	
+		}
+	}
+]
+# -------------------------------
+# -------------------------------
+[
+	{
+		"dropbox_yrly_savings_0_00": {
+			"title": "",
+			"link": "",
+			"bard_prompt_00": "",
+			"title_00": ""
+		},
+		"dropbox_yrly_savings_0_01": {
+			"currency_type": [""],
+			"monthly_plan": {
+				"monthly_plan_00": {"plan": "", "storage": "", "monthly": ""},
+				"monthly_plan_01": {"plan": "", "storage": "", "monthly": 0},
+				"monthly_plan_02": {"plan": "", "storage": "", "monthly": 0}
+			},
+			"yearly_plan": {
+				"yearly_plan_00": {"plan": "", "storage": "", "yearly": 0},
+				"yearly_plan_01": {"plan": "", "storage": "", "yearly": 0},
+				"yearly_plan_02": {"plan": "", "storage": "", "yearly": 0}
+			},
+			"yearly_savings": {
+				"yearly_savings_00": {"plan": "", "storage": "savings": 0},
+				"yearly_savings_01": {"plan": "", "storage": "savings": 0},
+				"yearly_savings_02": {"plan": "", "storage": "savings": 0}
+			}
+		}
+	}
+]
