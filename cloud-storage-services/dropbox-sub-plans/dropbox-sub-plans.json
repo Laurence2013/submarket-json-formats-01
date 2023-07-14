@@ -67,7 +67,30 @@
 			}
 		},
 		"dropbox_04": {
-
+			"dropbox_yrly_savings_0_00": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard_prompt_00": "Dropbox savings for individuals yearly than monthly in pounds",
+				"title_00": ""
+			},
+			"dropbox_yrly_savings_0_01": {
+				"currency_type": ["pounds"],
+				"monthly_plan": {
+					"monthly_plan_00": {"plan": "Plus", "storage": "2 TB", "monthly": 7.99},
+					"monthly_plan_01": {"plan": "Professional", "storage": "3 TB", "monthly": 15.99},
+					"monthly_plan_02": {"plan": "Business", "storage": "5 TB", "monthly": 15.99}
+				},
+				"yearly_plan": {
+					"yearly_plan_00": {"plan": "Plus", "storage": "2 TB", "yearly": 79.99},
+					"yearly_plan_01": {"plan": "Professional", "storage": "3 TB", "yearly": 119.88},
+					"yearly_plan_02": {"plan": "Business", "storage": "5 TB", "yearly": 143.88}
+				},
+				"yearly_savings": {
+					"yearly_savings_00": {"plan": "Plus", "storage": "2 TB", "savings": 23.88},
+					"yearly_savings_01": {"plan": "Professional", "storage": "3 TB", "savings": 59.88},
+					"yearly_savings_02": {"plan": "Business", "storage": "5 TB", "savings": 47.88}
+				}
+			}
 		}
 	}
 ]

@@ -61,9 +61,9 @@
 				"yearly_plan_02": {"plan": "", "storage": "", "yearly": 0}
 			},
 			"yearly_savings": {
-				"yearly_savings_00": {"plan": "", "storage": "savings": 0},
-				"yearly_savings_01": {"plan": "", "storage": "savings": 0},
-				"yearly_savings_02": {"plan": "", "storage": "savings": 0}
+				"yearly_savings_00": {"plan": "", "storage": "", "savings": 0},
+				"yearly_savings_01": {"plan": "", "storage": "", "savings": 0},
+				"yearly_savings_02": {"plan": "", "storage": "", "savings": 0}
 			}
 		}
 	}
