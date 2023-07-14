@@ -135,6 +135,42 @@
 				"free_trial_eligibility": "Once opened an account with Dropbox",
 				"features": ["Free Trial Length", "Free Trial Storage", "Storage Cost After Trial", "Keep Basic Free Storage?", "Convert to Paid Plan Required?"]
 			}
+		},
+		"dropbox_07": {
+			"dropbox_0_00": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard_prompt_00": "Dropboxfor business subscription plan per month",
+				"title_00": ""
+			},
+			"dropbox_0_01": {
+				"currency_type": ["pounds"],
+				"num_of_user": "per user",
+				"monthly_plan_00": {"plan": "Standard", "storage": "5 TB", "monthly": 15.00},
+				"monthly_plan_01": {"plan": "Advanced", "storage": "as much as needed", "monthly": 24.00},
+				"monthly_plan_02": {"plan": "Enterprise", "storage": "customisable", "monthly": "contact sales"}
+			},
+			"dropbox_0_02": {
+				"features": ["5 TB of storage per user, admin console, file recovery, external content controls, reporting", "Everything in Standard, plus audit logs, tiered admin roles, sign-in as another user, always-on security monitoring, data classification", "Everything in Advanced, plus custom security settings, integrations with other security solutions, dedicated customer success manager"]	
+			}
+		},
+		"dropbox_08": {
+			"dropbox_0_00": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard_prompt_00": "Dropbox for business subscription plan per year",
+				"title_00": ""
+			},
+			"dropbox_0_01": {
+				"currency_type": ["pounds"],
+				"num_of_user": "per user",
+				"yearly_plan_00": {"plan": "Standard", "storage": "5 TB", "monthly": 180.00},
+				"yearly_plan_01": {"plan": "Advanced", "storage": "as much as needed", "monthly": 288.00},
+				"yearly_plan_02": {"plan": "Enterprise", "storage": "customisable", "monthly": "contact sales"}
+			},
+			"dropbox_0_02": {
+				"features": ["5 TB of storage per user, admin console, file recovery, external content controls, reporting", "Everything in Standard, plus audit logs, tiered admin roles, sign-in as another user, always-on security monitoring, data classification", "Everything in Advanced, plus custom security settings, integrations with other security solutions, dedicated customer success manager"]	
+			}
 		}
 	}
 ]

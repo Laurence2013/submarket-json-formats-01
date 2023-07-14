@@ -90,3 +90,47 @@
 		}
 	}
 ]
+# -------------------------------
+# -------------------------------
+[
+	{
+		"___0_00": {
+			"title": "",
+			"link": "",
+			"bard_prompt_00": "",
+			"title_00": ""
+		},
+		"___0_01": {
+			"currency_type": [""],
+			"num_of_user": "",
+			"monthly_plan_00": {"plan": "", "storage": "", "monthly": ""},
+			"monthly_plan_01": {"plan": "", "storage": "", "monthly": 0},
+			"monthly_plan_02": {"plan": "", "storage": "", "monthly": 0}
+		},
+		"___0_02": {
+			"features": ["", "", ""]	
+		}
+	}
+]
+# -------------------------------
+# -------------------------------
+[
+	{
+		"___0_00": {
+			"title": "",
+			"link": "",
+			"bard_prompt_00": "",
+			"title_00": ""
+		},
+		"___0_01": {
+			"currency_type": [""],
+			"num_of_user": "",
+			"yearly_plan_00": {"plan": "", "storage": "", "monthly": ""},
+			"yearly_plan_01": {"plan": "", "storage": "", "monthly": 0},
+			"yearly_plan_02": {"plan": "", "storage": "", "monthly": 0}
+		},
+		"___0_02": {
+			"features": ["", "", ""]	
+		}
+	}
+]
