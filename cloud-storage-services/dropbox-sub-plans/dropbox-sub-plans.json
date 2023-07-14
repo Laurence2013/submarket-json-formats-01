@@ -89,7 +89,8 @@
 					"yearly_savings_00": {"plan": "Plus", "storage": "2 TB", "savings": 23.88},
 					"yearly_savings_01": {"plan": "Professional", "storage": "3 TB", "savings": 59.88},
 					"yearly_savings_02": {"plan": "Business", "storage": "5 TB", "savings": 47.88}
-				}
+				},
+				"test": {}
 			}
 		}
 	}
