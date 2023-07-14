@@ -1,0 +1,14 @@
+{
+  "name": "submarket-json-formats",
+  "version": "1.0.0",
+  "description": "All json formats for all kinds of subscriptions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Laurence",
+  "license": "ISC",
+  "dependencies": {
+    "@prantlf/jsonlint": "^14.0.3"
+  }
+}

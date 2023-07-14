@@ -1,0 +1,73 @@
+[
+	{
+		"dropbox_00": {
+			"dropbox_00": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard_prompt_00": "Dropbox subscription monthly plan for individuals in pounds",
+				"title_00": ""
+			},
+			"dropbox_01": {
+				"currency_type": ["pounds"],
+				"monthly_plan_00": {"plan": "Dropbox Basic", "storage": "2 GB", "monthly": "Free"},
+				"monthly_plan_01": {"plan": "Dropbox Plus", "storage": "2 TB", "monthly": 7.99},
+				"monthly_plan_02": {"plan": "Dropbox Family", "storage": "2 TB", "monthly": 15.99}
+			},
+			"dropbox_02": {
+				"features": ["Basic file storage and sharing", "Automatic file backup, offline access, large file sending", "Everything in Plus, plus family sharing"]	
+			}
+		},
+		"dropbox_01": {
+			"dropbox_00": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard-prompt-00": "Dropbox subscription yearly plan for individuals in pounds",
+				"title_00": ""
+			},
+			"dropbox_01": {
+				"currency_type": ["pounds"],
+				"yearly_plan_00": {"plan": "Plus", "storage": "2 TB", "yearly": 79.99},
+				"yearly_plan_01": {"plan": "Plus", "storage": "3 TB", "yearly": 119.88},
+				"yearly_plan_02": {"plan": "Plus", "storage": "5 TB", "yearly": 143.88}
+			},
+			"dropbox_02": {
+				"features": ["Prices shown are for annual subscriptions paid upfront.", "Plus plan includes features like syncing, sharing, device backup.", "Professional adds extras like password protection, e-signatures.", "Business optimized for teams with shared folders, groups, etc.", "Additional storage can be purchased if needed.", "30 day free trial available to test plans.", "Mobile and desktop apps to access files."]
+			}
+		},
+		"dropbox_02": {
+			"dropbox_00": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard_prompt_00": "Dropbox subscription monthly plan for family in pounds",
+				"title_00": ""
+			},
+			"dropbox_01": {
+				"currency_type": ["pounds"],
+				"monthly_plan_00": {"plan": "Plus", "storage": "2 TB", "monthly": 10.99},
+				"monthly_plan_01": {"plan": "Family", "storage": "2 TB", "monthly": 15.99}
+			},
+			"dropbox_02": {
+				"features": ["Family plan allows sharing 2TB storage with up to 6 users.", "Plus plan is for single user with 2TB storage.", "Prices shown are for monthly billing. Annual plans also available.", "Family members get private and shared folders.", "Features include syncing, recovery, remote access.", "Can add extra storage if needed.", "30 day free trial to test.", "Available on desktop, mobile and web."]
+			}
+		},
+		"dropbox_03": {
+			"dropbox_00": {
+				"title": "Dropbox subscriptions",
+				"link": "https://www.dropbox.com/plans",
+				"bard_prompt_00": "Dropbox subscription yearly plan for family in pounds",
+				"title_00": ""
+			},
+			"dropbox_01": {
+				"currency_type": ["pounds"],
+				"yearly_plan_00": {"plan": "Plus", "storage": "2 TB", "yearly": 95.88},
+				"yearly_plan_01": {"plan": "Family", "storage": "2 TB", "yearly": 143.88}
+			},
+			"dropbox_02": {
+				"features": ["Family plan allows sharing 2TB storage with up to 6 users.", "Plus plan is for single user with 2TB storage.", "Prices shown are for annual subscriptions paid upfront.", "Family members get private and shared folders.", "Features include syncing, recovery, remote access.", "Can add extra storage if needed.", "30 day free trial to test.", "Available on desktop, mobile and web."]	
+			}
+		},
+		"dropbox_04": {
+
+		}
+	}
+]
