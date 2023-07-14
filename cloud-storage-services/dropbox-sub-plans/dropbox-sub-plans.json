@@ -90,6 +90,9 @@
 					"yearly_savings_01": {"plan": "Professional", "storage": "3 TB", "savings": 59.88},
 					"yearly_savings_02": {"plan": "Business", "storage": "5 TB", "savings": 47.88}
 				}
+			},
+			"dropbox_yrly_savings_02": {
+				"features": ["Annual plans allow paying upfront for the full year at a discounted rate.", "Savings on Plus plan is £23.88 per year compared to paying monthly.", "Professional plan saves £59.88 per year paying annually.", "Business plan saves £47.88 per year with annual billing.", "Paying monthly means paying more overall over the course of a year."]	
 			}
 		},
 		"dropbox_05": {
@@ -113,6 +116,9 @@
 					"yearly_savings_00": {"plan": "Plus", "storage": "2 TB", "savings": 26.88},
 					"yearly_savings_01": {"plan": "Family", "storage": "2 TB", "savings": 31.88}
 				}
+			},
+			"dropbox_yrly_savings_02": {
+				"features": ["Annual family plans allow paying upfront for the full year at a discounted rate.", "Savings on Plus family plan is £26.88 per year compared to paying monthly.", "Family plan saves £31.88 per year with annual billing.", "Paying monthly means higher total cost over the year."]	
 			}
 		}
 	}
