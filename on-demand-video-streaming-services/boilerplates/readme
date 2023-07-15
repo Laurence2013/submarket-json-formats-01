@@ -1,0 +1,4 @@
+For every boilerplates there will be an 'evernote_tag', this must is used for
+references
+
+When using this json in production, you must explicitely remove the 'evernote_tag'
